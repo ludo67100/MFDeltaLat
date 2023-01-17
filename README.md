@@ -25,7 +25,7 @@ pip install git+https://github.com/ludo67100/electroPyy.git
 Download and unzip SOURCE_DATA.zip anywhere on your machine
 
 ### 4. Run the scripts in Spyder
-Simply copy/paste of open scripts file (.py) in Spyder and set *** mainDataDir *** path with the location of SOURCE_DATA folder in your machine. 
+Simply copy/paste of open scripts file (.py) in Spyder and set ```mainDataDir``` path with the location of SOURCE_DATA folder in your machine. 
 
 ### 5. To run the NEST simulation 
 create an environnement and install NEST
